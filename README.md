@@ -42,7 +42,7 @@ BlueConserve/
 ├── package-lock.json     # Lock file for reproducible installs  
 ├── tailwind.config.js    # Tailwind CSS configuration  
 ├── postcss.config.js     # PostCSS configuration for Tailwind  
-├── vite.config.ts        # Vite build configuration (if applicable)  
+├── vite.config.ts        # Vite build configuration  
 ├── tsconfig.json         # TypeScript config  
 ├── tsconfig.app.json     # App-specific TypeScript config  
 └── tsconfig.node.json    # Node-specific config
