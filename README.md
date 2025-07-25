@@ -50,7 +50,7 @@ BlueConserve/
 To run this project locally:
 ```bash
 - git clone https://github.com/rutuja534/BlueConserve.git
-- cd WomanHood
+- cd BlueConserve
 - Open index.html in your browser, or use Live Server if using VS Code.
 ```
 
