@@ -32,12 +32,10 @@ Whether you're tracking your plastic usage or learning about marine conservation
 BlueConserve/
 ├── .bolt/                # Bolt project metadata  
 ├── src/                  # Source files and page blocks  
-│  
 ├── index.html            # Main HTML entry point  
 ├── README.md             # Project documentation (this file)  
 ├── .env                  # Environment variables (if applicable)  
 ├── .gitignore            # Git ignored files  
-│  
 ├── package.json          # Project dependencies  
 ├── package-lock.json     # Lock file for reproducible installs  
 ├── tailwind.config.js    # Tailwind CSS configuration  
@@ -47,5 +45,12 @@ BlueConserve/
 ├── tsconfig.app.json     # App-specific TypeScript config  
 └── tsconfig.node.json    # Node-specific config
 
+## Getting Started Locally
 
+To run this project locally:
+```bash
+- git clone https://github.com/rutuja534/BlueConserve.git
+- cd WomanHood
+- Open index.html in your browser, or use Live Server if using VS Code.
+```
 
