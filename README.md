@@ -2,7 +2,8 @@
 
 A clean ocean starts with cleaner choices.
 
-🔗 Live Website: https://sage-tulumba-42d3f3.netlify.app/
+🔗 Explore the full website here → [Live Website deployed on Netlify](https://sage-tulumba-42d3f3.netlify.app/)
+
 
 ## Description
 
